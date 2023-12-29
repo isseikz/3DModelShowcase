@@ -1,0 +1,2 @@
+# 3DModelShowcase
+自作の3Dモデルを展示するWebギャラリー。BlenderとFreeCADで作成したモデルをGitHub Pagesを通じて公開。
